@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![SailerNote's github stats](https://github-readme-stats.vercel.app/api?username=SailerNote)](https://github.com/anuraghazra/github-readme-stats)
-[![SailerNote's codewars badges](https://www.codewars.com/users/Yansy/badges/micro)
+![SailerNote's codewars badges](https://www.codewars.com/users/Yansy/badges/micro)
 
