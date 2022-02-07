@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/EurusEurus/github-profile-trophy)
+
+
 <!--
 **SailerNote/SailerNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![SailerNote's github stats](https://github-readme-stats.vercel.app/api?username=Eurusan)](https://github.com/anuraghazra/github-readme-stats)
+[![SailerNote's github stats](https://github-readme-stats.vercel.app/api?username=EurusEurus)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![SailerNote's codewars badges](https://www.codewars.com/users/Yansy/badges/micro) -->
 
