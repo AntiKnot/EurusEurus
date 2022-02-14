@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EurusEurus)](https://github.com/EurusEurus/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EurusEurus&row=2&column=4)](https://github.com/EurusEurus/github-profile-trophy)
 
 
 <!--
