@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=EurusEurus&theme=oldie&row=1&column=6)](https://github.com/EurusEurus/github-profile-trophy) -->
 
