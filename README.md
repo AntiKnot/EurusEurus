@@ -1,5 +1,8 @@
 ### Hi there 
 
+I’m currently learning windows-kernel-exploit and reverse-engineer-tool.  
+I’m currently working on CyberSecurity, big data components, web apps backend.
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=EurusEurus&theme=oldie&row=1&column=6)](https://github.com/EurusEurus/github-profile-trophy) -->
 
 
