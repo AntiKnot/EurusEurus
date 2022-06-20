@@ -2,7 +2,7 @@
 
 Here is a traing room. I like it.
 
-I’m currently learning Streaming System and Functional Programming in Scala
+I’m currently learning penetration test, OSCP certified.
 <!-- I’m currently learning windows-kernel-exploit and reverse-engineer-tool.   -->
 I’m currently working on CyberSecurity, big data components, steam processing, web apps backend.
 
